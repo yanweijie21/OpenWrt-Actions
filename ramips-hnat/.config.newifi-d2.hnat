@@ -82,6 +82,7 @@ CONFIG_TARGET_ramips_mt7621=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_dlink_dir-882-r1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_dual-q_h721 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_newifi-d2 is not set
+CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_newifi-d2=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_pbr-m1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_edimax_ra21s is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_edimax_re23s is not set
@@ -179,7 +180,6 @@ CONFIG_TARGET_ramips_mt7621=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_re650-v1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_re650-v2 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_tl-wpa8631p-v3 is not set
-CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_newifi-d2=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_edgerouter-x-sfp is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_unifi-6-lite is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_unifi-nanohd is not set
