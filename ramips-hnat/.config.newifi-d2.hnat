@@ -179,7 +179,7 @@ CONFIG_TARGET_ramips_mt7621=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_re650-v1 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_re650-v2 is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_tplink_tl-wpa8631p-v3 is not set
-CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_edgerouter-x=y
+CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_newifi-d2=y
 # CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_edgerouter-x-sfp is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_unifi-6-lite is not set
 # CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_unifi-nanohd is not set
@@ -221,7 +221,7 @@ CONFIG_HAS_SUBTARGETS=y
 CONFIG_HAS_DEVICES=y
 CONFIG_TARGET_BOARD="ramips"
 CONFIG_TARGET_SUBTARGET="mt7621"
-CONFIG_TARGET_PROFILE="DEVICE_ubnt_edgerouter-x"
+CONFIG_TARGET_PROFILE="DEVICE_newifi-d2"
 CONFIG_TARGET_ARCH_PACKAGES="mipsel_24kc"
 CONFIG_DEFAULT_TARGET_OPTIMIZATION="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc"
 CONFIG_CPU_TYPE="24kc"
