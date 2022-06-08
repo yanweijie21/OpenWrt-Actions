@@ -17,4 +17,4 @@
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 # rm -rf target/linux/ramips
-# svn export https://github.com/padavanonly/immortalwrt/trunk/target/linux/ramips target/linux/ramips
+# svn export https://github.com/yanweijie21/immortalwrt/tree/master/target/linux/ramips
